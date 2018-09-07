@@ -1,0 +1,4 @@
+PS G:\MSSE First Sem\273\lab2_v1.1> python calculator_client.py
+ Please Enter the First Number: 2
+ Please Enter the Second number: 2
+Client received: (2 + 2) = 4
